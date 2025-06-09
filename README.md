@@ -1,9 +1,12 @@
-# Escape The Dungeon 🐉
+<h1 align="center">Escape The Dungeon 🐉</h1>
 
 <p align="center">
   <img src="escape_the_dungeon_cover.jpg" alt="Escape The Dungeon Cover" width="600"/>
 </p>
-![Python](https://img.shields.io/badge/language-python-blue?logo=python)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Python-3776AB?logo=python&logoColor=white" alt="Made with Python"/>
+</p>
 
 **Escape The Dungeon** is an interactive Python game I developed as the final project for the [Code in Place 2025](https://codeinplace.stanford.edu/2025/showcase/?project=Hkx72K4JyPeu3CnpoaUYXZQw8Jm2) course by Stanford University. It's a narrative-driven text adventure where each choice influences your fate.
 
